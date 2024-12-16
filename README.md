@@ -9,4 +9,5 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 # Contact
+- Discord: popo.nyan
 - Email [kounomiya@tuta.io](mailto:kounomiya@tuta.io)
